@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>
+    </title>
+  </head>
+   <body>
+    <h3>Cities I Used to Live In</h3>
+    <p>I am an adventure and hated NE! I was ready to travel and see the US, especially CO!
+    </p>
+       <ul>
+         <li>Lincoln, NE</li>
+         <li>Vail, CO</li>
+         <li>Orlando, FL</li>
+         <li>Arvada, CO</li>
+       </ul>
+
+       <h3>Cities I'd Like to Visit</h3>
+        <p>I want to expand beyond the US and really only have a few ideas of places to visit here.</p>
+       <ol>
+         <li>Portland, OR</li>
+         <li>Machu Picchu</li>
+         <li>Someplace in CA</li>
+       </ol>
+
+
+     
+   </body>
+
+
+
+
+</html>
