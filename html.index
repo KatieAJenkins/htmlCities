@@ -2,15 +2,13 @@
 
 <html>
   <head>
-    <title>
-    </title>
+    <title>Katies Webpage</title>
   </head>
    <body>
     <h3>Cities I Used to Live In</h3>
-    <p>I am an adventure and hated NE! I was ready to travel and see the US, especially CO!
-    </p>
+    <p>I am an adventure and hated NE! I was ready to travel and see the US, especially CO!</p>
        <ul>
-         <li>Lincoln, NE</li>
+         <li>Lincoln, NE</li><p><span>Boo this place!</span></p>
          <li>Vail, CO</li>
          <li>Orlando, FL</li>
          <li>Arvada, CO</li>
@@ -25,7 +23,7 @@
        </ol>
 
 
-     
+
    </body>
 
 
